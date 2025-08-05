@@ -1,0 +1,501 @@
+review_id,customer_id,product_id,category,review_text,rating,sentiment,polarity
+1,bdd640fb-0667-4ad1-9c80-317fa3b1799d,2824,Electronics,Each cause bill scientist nation opportunity all behavior discussion own night respond red information last everything thank serve.,3,Positive,0.2
+2,571aa876-6c30-4511-b2b9-437a28df6ec4,5012,Books,Choice whatever from behavior benefit suggest page southern role.,1,Neutral,0.0
+3,ec1b8ca1-f91e-4d4c-9ff4-9b7889463e85,9935,Electronics,Bad fall pick those gun court attorney product significant world talk term herself law street class great prove.,4,Positive,0.158
+4,a5e5a5ab-aefc-4ad8-afc8-9849b3aa7efe,1520,Electronics,Participant commercial rock clear here writer.,2,Neutral,0.05
+5,3838b326-8e94-4239-b02b-61c4a3d70628,4811,Home,Successful simply director allow firm environment decision wall then fire pretty how trip learn enter east no.,1,Positive,0.2
+6,6dadd6c7-95a7-4d79-bf3c-4c06434308bc,4257,Home,Human despite young meeting before another body physical society instead as high you more wife team activity result.,2,Positive,0.152
+7,c0398710-8976-4334-a281-7efdae849217,8359,Home,Shoulder future fall citizen about reveal rest will seven medical blood.,1,Neutral,0.0
+8,a39231a7-d777-4477-8c66-e0a8a013ac6e,3615,Sports,Participant check several much single morning a food affect upon these story film around there water.,3,Neutral,-0.036
+9,d0e6e660-7c69-4ee1-bb5e-4bcf15ed6269,3547,Books,Within mouth call process water close month parent who up sense ready require.,3,Positive,0.2
+10,a65e688e-abf3-4d39-bec2-1bbe66245bfa,2674,Electronics,Just military building different full open discover detail audience piece director town teacher audience.,1,Neutral,0.062
+11,7c441fe7-ab42-40a7-874a-493b3ceddf2d,6881,Clothing,Much rich think office drug list imagine behind probably great in tell approach president.,3,Positive,0.258
+12,6712303a-0f84-4fef-9931-e9eea56c0941,1711,Sports,Song body court movie cell contain leg themselves away space task better present music address behavior.,1,Positive,0.25
+13,2a935d62-3c83-4dc0-9944-1fa5c0e9ab30,7201,Electronics,Magazine degree husband around her world enter six lawyer institution whatever yet new responsibility choice father why.,3,Positive,0.136
+14,0f9aea4b-8acd-4e10-bc59-4585944528c0,6925,Home,Arm once me system church whether bag control organization push dog.,1,Neutral,0.0
+15,91d63f78-e3e9-4e99-b10c-718b1eb0e38a,1750,Books,Often always bank price north first end prove fire enter capital population lead upon very act perform none.,3,Positive,0.225
+16,369147eb-89a2-488b-92c1-36e019985f15,2307,Books,Enter value thing these hard citizen street region particularly would pressure.,4,Neutral,-0.063
+17,8dfa6a56-d12d-4c9a-aaf9-15310200b1f0,5554,Sports,Use billion there enough threat score choice example decision garden reach table measure economy traditional anything plant.,3,Neutral,0.0
+18,00e85ece-0b49-452d-86d4-83f3d450281c,3664,Clothing,Side PM energy scientist necessary into act away third tough nation strong old.,2,Neutral,0.029
+19,0ab54bde-20a0-4502-ae06-809725e97977,5374,Electronics,Half value win always group radio project government nice themselves wind see understand door class son.,2,Positive,0.411
+20,0658663a-698c-406f-a1a4-7e102d534dd0,9751,Books,Say forward us soon ten specific environment skin.,4,Neutral,0.0
+21,09e9db0a-df46-4290-a1ee-411a1bac27a7,7216,Clothing,Develop staff least figure somebody dinner age cover foreign ten whom evidence political hundred wonder movie voice boy wife condition while.,5,Negative,-0.106
+22,98b8e4cc-1bc0-44fc-89cb-394243f59a85,4598,Clothing,Generation skill job worker break tonight couple and job mind southern rather vote say culture issue we TV perhaps professional by tonight medical.,1,Neutral,0.033
+23,6703b636-5380-4904-a88c-7015aab97e49,4752,Electronics,Never court professor here security community notice image street fight decision size parent focus kid put memory soldier where.,3,Neutral,0.0
+24,15b52908-a8aa-4158-ab70-e525bc67f831,7572,Clothing,Middle plan friend stand seem pull different current.,2,Neutral,0.0
+25,fbe33b24-3eae-4032-8bd4-a9900640be0f,6155,Books,Particularly shoulder lay though offer responsibility himself hundred challenge reach throughout team those sing despite sound receive let newspaper true building.,4,Positive,0.306
+26,aae65fc1-76f2-4bfe-8d29-a36f222282e1,7482,Sports,Write other wear through partner rest measure store natural today season listen.,3,Neutral,-0.012
+27,d701410d-3f4b-4a70-8074-718e425a609f,3287,Books,She miss phone ever back experience even floor music catch discuss really relationship ask imagine my indeed deal.,5,Neutral,0.1
+28,c51155ff-e7a3-4e81-a3b4-c08b6b8e869f,9830,Clothing,Watch affect thing offer local wall fear hope through structure Mrs same son today major event magazine home protect something right subject try wonder move.,5,Neutral,0.036
+29,907bfe36-9786-48f8-a4de-82e6e82c7d7b,8019,Home,Base investment term consider employee force lawyer front.,3,Negative,-0.8
+30,c083b73a-473b-4358-a10e-6a64e1301617,4593,Books,Edge bank affect much yourself glass practice sit prepare senior wear current after charge call prove nor design.,4,Neutral,0.1
+31,5e6fea07-c453-4f1d-8199-2fdfb31022f0,2489,Electronics,Paper white responsibility sing clearly find official.,2,Neutral,0.05
+32,ad66a1bd-9367-4a02-8fdc-6e1bedcb8cb6,3621,Sports,However resource away real physical big significant sure outside building worker site girl into have media game support.,1,Neutral,0.079
+33,6efb63b1-1b04-4863-bd7d-dbedd284476c,7304,Sports,Player stock religious itself safe whole establish space Mrs low itself room environmental system store beautiful think during.,4,Positive,0.31
+34,ab0e664e-9c3e-42d5-91e1-aa9676f72255,9669,Clothing,From management foot maintain great election evidence other they new might course drop image new drive live.,1,Positive,0.217
+35,cafda613-72bb-412d-bda6-7785b63b4dc3,2876,Home,Behavior develop reality fill ok list most international second former reflect even.,3,Positive,0.2
+36,b8a6171f-1ee3-4dc4-bb04-8a8b405bfdc9,6573,Electronics,Firm sea week real course school everybody operation set others.,4,Neutral,0.0
+37,31b1b099-d527-41e7-99bc-143efb02bebb,3591,Sports,Dinner conference add move ever window network.,3,Neutral,0.0
+38,a34b6cf6-2053-4a42-b1af-db65b289f224,9201,Books,Bill activity expect long future whole education technology box assume man officer rather charge specific we be easy newspaper.,1,Positive,0.117
+39,ca6dfda1-989b-44da-9b37-a22b6a8a616f,5889,Home,Difficult mission late kind team wrong figure perform participant science way debate decision produce church community avoid able late order fact discuss religious.,2,Neutral,-0.071
+40,1238d630-743b-45a2-9c0f-2fcfb3f6fe0d,3504,Clothing,Under skin person product value interesting name positive training step author coach film see notice eye buy.,2,Positive,0.364
+41,670acc5c-b321-4f21-8dd8-eb85b04d3376,9837,Home,Matter management ball always it focus economy.,5,Neutral,0.0
+42,ac9ed156-f63f-4e41-ba9a-ca5e176132ed,6310,Sports,Onto again share start office several compare million kind everything.,1,Positive,0.3
+43,a2814044-6f96-4882-95d8-2980ff37d19c,6947,Clothing,Why like impact fly bit claim in many production hundred set already because.,1,Positive,0.65
+44,f85e06a1-1dad-49b2-92c2-1221409d3602,4946,Home,Ten stay ability thank left approach million performance material.,1,Neutral,0.0
+45,341c6494-0d36-4dfc-828e-bd7071299889,8962,Electronics,Near until just recognize building win participant dream citizen nearly need behavior yeah tree left brother strategy marriage.,5,Positive,0.25
+46,b495db4e-8245-4fb4-8ab7-706eb77350ca,3060,Books,Indeed lot line lead certain course out second carry attorney significant take future skin environment able.,4,Positive,0.218
+47,96418ced-d664-4264-8c6e-27ffb9de7a3a,3705,Clothing,Your majority chance Mrs generation necessary myself lay focus country recently occur do simply analysis seat relate specific history professional star.,5,Neutral,0.02
+48,f6febc0e-7ecd-4baf-a6f0-5fcffb16e5db,7932,Books,Call whole forward beyond suddenly between treat address century that.,2,Neutral,0.1
+49,78308930-1327-41bc-a784-378ff84f16b3,6107,Sports,Full realize power system system teacher here first responsibility service their along attention piece TV young.,3,Positive,0.233
+50,fa745761-6f18-4108-9723-199dbf2c14a0,8177,Home,Set region beyond coach federal ahead food argue grow issue.,1,Neutral,0.0
+51,90e0a95b-697c-4923-87fa-841a3e83b91f,5061,Books,Color bad that people drive tree central.,3,Negative,-0.35
+52,75a66981-4104-48b5-a34d-b7c5760debbb,1344,Home,Project together let explain national available war write federal while real lead few yourself.,2,Positive,0.133
+53,3cb98350-1b4d-40fe-bbb3-8605da743152,4608,Electronics,Occur offer yeah far within probably ever not rate.,1,Neutral,0.1
+54,e91e314e-0c8e-49e3-b93e-08d5bea29dfe,4750,Electronics,Seat strategy total simply discover soon despite couple economy sense.,3,Neutral,0.0
+55,d69d42f1-ae4c-44ff-a8c0-1f05c478f6f1,2160,Home,Pick tough position final kid often run bed.,3,Negative,-0.194
+56,6a5e6920-bf5a-47e6-93a3-dd5a4b8c5bdc,8953,Books,Customer skill theory hand maybe evening clearly trial want whose far that sound.,2,Positive,0.2
+57,2408a6dc-1346-41a9-b680-2cdb77e490c7,8744,Books,Team right woman whose source hand so add Mr lawyer pull public once state wait board doctor.,4,Positive,0.143
+58,f1738856-e25d-46eb-9e9a-9f83066803ee,7669,Books,Foreign particular positive play less red power bring animal also you.,1,Neutral,0.02
+59,e3236d1a-3c1b-4acc-98e1-93311dba1267,8062,Clothing,Career law provide sea watch industry score choice increase between majority impact week allow have kitchen wear.,4,Neutral,0.0
+60,fb1e143b-196f-4dfa-9cd8-fe1adafec8a9,8651,Electronics,Name within grow huge couple business summer lawyer production politics others again skill during call north attention share debate.,1,Positive,0.4
+61,3ba5cd2f-dea4-4c19-9024-3d723748967f,1993,Sports,Similar small other everyone worker would music sometimes body term capital group small open administration enter camera inside box.,3,Negative,-0.125
+62,c72c1fe3-72c2-4a16-b9eb-4168104556e5,2790,Books,Message board mean war analysis situation term miss leader who article.,2,Negative,-0.312
+63,6d204496-66d0-4371-98e8-8ebb7a9e8eef,9786,Sports,Make travel available ball part assume every.,4,Positive,0.4
+64,b64fa54a-8c61-4654-95da-75c1a21150f9,4006,Clothing,Herself our far measure involve soldier boy pressure there necessary tend involve thousand including still.,2,Neutral,0.05
+65,18578baf-bac7-42b9-aa7e-4c3666132e69,2235,Sports,Interview professor hear check type attack story behavior benefit school speech news only no form business government program seek test.,5,Neutral,0.0
+66,49a214ae-f7e8-48e5-8d2b-91efb8976ec5,2604,Electronics,Fine billion medical choice lot suggest glass news boy everything difficult investment night should perform push news participant price really ahead event several TV.,5,Neutral,0.023
+67,deaf528d-2e70-4838-8190-262059dcabd0,1241,Electronics,Not husband center plan air second Democrat information game have return since nothing be apply.,2,Negative,-0.167
+68,0cbd3c03-9e2a-44ac-8122-b5b3284c03d2,3724,Sports,Evening product magazine kind event sense box involve exist question.,4,Positive,0.6
+69,4ef492c1-aac9-4316-86e5-27537c93f6cc,4502,Sports,Determine worker area daughter war.,2,Neutral,0.0
+70,4169b9fc-c3a0-4c6f-a321-d1e1c47104c0,7209,Electronics,Foreign account section compare herself region matter street south author technology amount affect.,3,Negative,-0.125
+71,5024bdc6-dcb3-4df3-93ee-cdc6ebd14d2c,8454,Clothing,Investment identify policy face if whom commercial way least ready gun join black job hundred bad that second.,5,Negative,-0.161
+72,2b0abedd-c774-44cb-9543-fc3c38b8f24e,8973,Books,Member box member town glass road standard.,3,Neutral,0.0
+73,1a5165ca-3c7c-4d85-a5cf-0041d0a643fe,4566,Electronics,Eight community check service away week physical less nor often race think poor.,5,Negative,-0.189
+74,dd3f487e-52bd-4661-9fe0-a8c7fc8d5b93,1998,Clothing,Firm key light place someone option goal avoid left also hard.,1,Neutral,-0.018
+75,dd3f7d7e-a508-4c95-93a4-a492497de16d,8811,Home,Past medical leg never social time last special prepare focus little.,2,Neutral,-0.016
+76,73557b9d-0fd6-447e-b52d-4af2269ed4c9,1931,Home,Specific study word base position always.,2,Negative,-0.4
+77,707df251-fdb1-429e-b010-ed13b526b22d,2122,Home,Mission city health executive impact full our smile positive at behind.,2,Positive,0.119
+78,4082cbb9-48bd-4b3e-a2f5-df2badaa44ca,7615,Electronics,Their four old center glass whose recognize hot organization visit finally heavy social spend prove stock school rate money position interest gun guy.,2,Neutral,0.017
+79,577bc55a-36d5-4494-b37f-d50d2e25b5ee,1651,Home,Court yourself choice fast small medical music school money product.,4,Neutral,-0.017
+80,218c6e1c-9e37-4f7a-842c-bc39e05b46c5,9565,Clothing,Heavy class story side speak close join improve put down know expect security large move finally.,2,Neutral,-0.035
+81,e76adca9-7811-4802-88cc-7cfecf01f944,6147,Books,Happy water worker left example high month whom stage soon.,4,Positive,0.32
+82,0d5ba7cd-4000-45f0-9f7d-0dd7236e1608,3144,Clothing,Them never bill suffer surface expect several evening town challenge join watch develop later glass ago apply maybe.,3,Neutral,0.0
+83,14e4180c-fe99-46a3-a2db-c8503c5bf3a7,2188,Electronics,Different five between research friend certainly although true line story serve light past town affect democratic.,5,Positive,0.143
+84,ba2c0f19-f0b2-45d1-8c7e-6f422646eaf9,2638,Electronics,Month book explain feeling answer information soldier lead book toward others administration middle drop century investment pass drive indicate professor beat.,2,Neutral,0.0
+85,f4124360-1153-4e99-9c50-8720f982f4e0,9288,Clothing,Name skill medical after them analysis hit health section ground attack drop.,3,Neutral,0.0
+86,c5811d2d-1a89-471e-a0d5-72c8a837fe68,2127,Books,Same forward and national spend compare single let receive place specific as simply leader fall analysis current.,3,Neutral,-0.014
+87,4f612217-eef1-4694-90ca-e32d0aba590e,3584,Sports,Huge spring list already positive experience television answer pretty event son join hundred keep what fund cost reality happen something.,3,Positive,0.292
+88,ba220065-1526-4718-8d18-0a824447ceab,9666,Electronics,Bad own state nation fly bag produce fill owner international ready goal amount thank good your ever woman way avoid.,5,Positive,0.267
+89,83599af6-5d01-455f-a7fd-64c4a334058a,5905,Electronics,Well central parent sit alone attack sing hand.,3,Neutral,0.0
+90,084a6780-9136-41f8-b310-46dc6202bee6,2891,Electronics,Check last he know baby case happen fire everything whether ago control military trial brother simple region Democrat partner really your customer career available common require.,5,Neutral,0.033
+91,ae92ea71-cf7d-4b43-9679-742fff4c96d6,3546,Clothing,Property remember nearly face feel church remember record company gun difference world.,5,Neutral,0.1
+92,ca55e38b-3c9a-4e10-a38d-6f44cac4d0eb,4450,Clothing,Ago network hard sound necessary partner beat finally yourself rest moment shoulder statement.,3,Neutral,0.027
+93,5128b9b1-f8ed-40ca-a015-6a7212e153a6,9280,Sports,Last quite general there sister policy consider whom.,1,Neutral,0.025
+94,de431e06-e924-4069-80bb-ae526ec01269,2512,Sports,Story million fight class various different way million.,1,Neutral,0.0
+95,4027ab7d-1430-49a9-988f-1c9448b763d5,1058,Clothing,Play nearly by field move maybe collection walk child probably result painting successful nor stay agreement animal.,2,Positive,0.425
+96,43c07d43-93a7-4792-8561-b8dca4364fcd,5291,Books,Short indicate police marriage phone face what lot source rate father authority art keep machine daughter.,4,Neutral,0.0
+97,dc8a4922-5005-480f-a4c7-78a59b4e164b,8007,Home,Safe team wish candidate have no five letter.,1,Positive,0.5
+98,24108e9a-3f77-4cae-b318-b96d44790612,2232,Books,Anything war ten industry while total spend value return couple city.,1,Neutral,0.0
+99,7faeb748-7781-421e-83c5-01cbfef7d9ea,7049,Home,Market bed hotel lead drive on any example our successful pull experience account blue care.,2,Positive,0.375
+100,c38c1dec-5da3-4a73-ba3d-f7ff43b47ee5,8041,Books,Hand hundred now crime network available mean share.,3,Neutral,0.044
+101,9f8cc29f-fd35-4c5f-9347-9a3b479bc637,6974,Electronics,Budget window hour some fund voice sense current meeting matter and case four listen lead paper middle.,2,Neutral,0.0
+102,518b2f21-9cf2-4859-ae6e-2e7253f591dc,5088,Electronics,Hotel pattern successful order medical meeting majority none little admit.,5,Positive,0.188
+103,fada98f5-1c0f-4bdc-ac7e-937c54cc1e2a,7658,Home,On someone rise read ago listen whose situation simply officer return on color pick people subject challenge quite all way body.,2,Neutral,-0.083
+104,6b352f85-504e-4687-b0e7-e75604d9145e,4878,Books,Include data maybe particularly likely summer road relationship million night your long heavy what least.,2,Negative,-0.138
+105,5ab28d4a-8bd8-4fcd-97a2-be4e887b03e5,7755,Electronics,Particular court east newspaper different win father eye debate.,3,Positive,0.322
+106,7ad465a1-5129-450d-bd2f-4e58b47a1c5b,7745,Books,Night various return explain of myself time house generation significant chair among.,2,Positive,0.188
+107,58ab4778-143b-45e3-b6d1-f6bbf48f709c,2771,Sports,Pretty section degree still even no even body scientist.,4,Positive,0.25
+108,ab7a3d1c-0cfe-4683-be11-bafe3d4196fe,4644,Books,Difficult do beyond form line race case who within citizen present thing little practice sense expert experience arrive shoulder.,3,Negative,-0.229
+109,88ffbd40-3b72-486d-92fa-675fa6fd0cb1,6000,Books,Tree company think compare try young however.,1,Neutral,0.1
+110,bfbeac7a-efc5-4738-afb2-1e667ed17aab,4164,Sports,Theory across nothing blue work expect writer myself management voice surface life.,3,Neutral,0.0
+111,54a7b69b-1cd6-4b09-8f0e-6d2b315c167a,2137,Clothing,Room possible responsibility add front far purpose cover particularly police.,5,Neutral,0.089
+112,83e96ef4-6d7d-45d0-93b5-9af767ce378f,7548,Home,Beautiful protect continue cell food easy end dog send west few reveal activity.,1,Positive,0.361
+113,3c7e5368-b159-4847-9c0b-9b10a757cb10,2889,Clothing,Property let civil rather type thousand.,5,Neutral,0.0
+114,1e0ef546-b0b6-4edf-8f9c-4027c5144d98,5349,Electronics,Happen determine whatever long lawyer writer health reduce.,5,Neutral,-0.05
+115,899ac252-c1e1-494a-b888-3058e9ad0e9b,8119,Clothing,Seven quite other skin moment month gun true born stock total dark Mr clearly take kind.,3,Positive,0.129
+116,95492a82-b787-4f8d-b495-311eae27d432,8149,Home,Before member speak law message lead around left southern rich how staff second official and general as yes various.,1,Neutral,0.071
+117,78d9a88a-ef0b-4a4f-bc73-7d9211ab3d11,7311,Home,Expert conference career political role white hear.,3,Neutral,0.0
+118,de9f6f5b-72d3-4458-a1ea-2f30e42e707a,1727,Sports,Heart radio product much president girl condition Mr.,5,Positive,0.2
+119,fa8dae42-ba54-4920-a099-d18087623997,9821,Books,Strong series without leg rest interest here discover leave choice country.,4,Positive,0.433
+120,1ce362f8-c3f7-45fe-b99b-2b5ae00da49d,2146,Clothing,Special information she this administration deal beyond almost our reflect.,3,Positive,0.357
+121,0b531932-bd94-49aa-bea6-e5b20c760d28,3041,Clothing,Keep music senior simply cell year doctor trouble office officer significant stand down then worry miss including.,3,Neutral,0.005
+122,f2d2393f-8e85-440d-8f9a-eb7046707cd6,7691,Clothing,They treatment personal interview many win walk provide skill five indicate chance heavy senior list support feeling remain.,3,Positive,0.275
+123,0ec0713d-ea2c-4a51-b688-d11fce4758be,3085,Books,Include indicate morning home effort form bad last he movie stop appear help painting always authority source onto.,4,Negative,-0.35
+124,7ab99428-378e-4510-8f10-d33eabe42e7d,3851,Home,Thank four whatever address view while bring yourself look drug page daughter trip need.,3,Neutral,0.0
+125,775c30b5-6173-4c48-8876-9153c68813fe,7653,Home,Possible final growth third letter sort reveal seven floor data.,3,Neutral,0.0
+126,90019ed4-0bb4-41e7-a9f7-53f1501ba851,5700,Books,Scientist administration network once result far cultural discover now early nearly want.,5,Neutral,0.1
+127,d253d966-c36b-4a0a-81e0-2a89566a9ce7,6279,Sports,Whom politics make collection some college result major true my politics arrive almost suggest war property share include.,4,Positive,0.206
+128,116658ce-3b3f-4800-a175-a9c3d7b102a9,4501,Home,Across media health pay project pattern low maintain according necessary activity.,2,Neutral,0.0
+129,892621df-4655-48b7-b8e1-9f568787ea21,2389,Clothing,Admit spend purpose south travel blood benefit chance court money spring environment however health image.,5,Neutral,0.0
+130,b27e1442-fd7f-4973-be42-df5b90a3fbbf,6491,Electronics,Feel stock ball yard practice all if help live PM reflect bar suddenly population former with wind.,2,Neutral,0.045
+131,0ae4ac11-eb4d-4f42-8735-70a2e5110961,6085,Books,Deep test thought little another avoid understand tonight nor allow up fire which onto sell require huge.,2,Neutral,0.071
+132,905f9096-2996-46e2-8c9d-690713b22cec,3414,Electronics,Note support quality music himself science so.,2,Neutral,0.0
+133,8033f5c2-1413-464d-b962-c8a7b076a7dc,8784,Home,Approach join stuff future shoulder western however similar ahead event yeah make green wait it quickly produce beat peace something.,1,Neutral,0.027
+134,4499d0a6-1500-4170-92d1-5585b68e47fa,8461,Sports,Here six child hope guess before wall know seven bill beautiful issue news mention.,5,Positive,0.85
+135,5a9a206a-16f1-42a2-86b9-19aa1a7167c7,4185,Sports,Behavior our foot history factor hold be top toward within occur college herself catch feeling manage as itself inside.,4,Positive,0.5
+136,5c72aebd-13b1-4e59-885c-d7147bf69552,4997,Books,Want result many pattern leader career according how success here television key issue statement prepare organization.,1,Positive,0.267
+137,f280df1d-9a6c-4db9-9217-1c884ce953a7,2746,Sports,Look concern huge five same plan whose site for.,2,Positive,0.2
+138,64976593-c92e-4c93-9105-c8d647c1c017,9486,Sports,Box nor or nation race nearly well left.,5,Neutral,0.05
+139,cc351e4f-703e-457f-b5ab-8466b5578b00,5082,Electronics,Story attorney summer some pull cause field education child institution help last our old.,2,Neutral,0.05
+140,eb9ed274-ec6a-47ad-81b1-5db988cc4d49,8612,Home,Myself so growth time Mr point be shoulder price great positive and worker quality hundred sell whole involve.,5,Positive,0.409
+141,38d5101f-423c-4d9d-993e-478302b34254,6198,Sports,Section newspaper reach determine hear leg quickly real character young lot far turn beat story role give gas six miss give.,5,Positive,0.133
+142,b25f13df-b8d4-4848-b02b-a49f18fdd2b9,7991,Home,Five feel special boy support possible quality clearly worker during company civil nice when discussion if continue.,2,Positive,0.264
+143,6544e313-6ea0-4d13-a845-54c3a3f66c61,8777,Sports,Scene third last involve above Democrat everything.,2,Neutral,0.0
+144,10042d82-cbc7-4f1a-8f08-ea54b4299924,5543,Home,Big the cost for leader energy television month police others particularly only girl suddenly pay sport relationship father pass.,2,Neutral,0.0
+145,502cf0ee-224a-46a6-ac0f-680115b24e1d,5499,Sports,Draw bring health center home others.,3,Neutral,-0.1
+146,2f8d8ded-6c4c-450b-a23a-d0fc93267d25,4841,Clothing,Player really population yourself never majority cell fire late approach grow act carry spring white.,3,Neutral,-0.033
+147,68bd075b-7eb6-481e-a72f-947d816462cb,9849,Electronics,Indeed style major bar air set factor ever Mrs collection leader score.,2,Neutral,0.062
+148,82c42e48-8cba-4ae5-becc-daf4c4134dc2,4788,Sports,Of environmental myself yard my series service kid despite interesting save president easy themselves.,2,Positive,0.467
+149,593c572b-4347-4bca-b321-a8b20840405a,4505,Electronics,Keep yes simply down specific onto go represent plan.,4,Neutral,-0.078
+150,c8ebe27a-23a4-470e-9dbc-15c02a7dc57c,6421,Home,Spend south now mother others collection without fall of weight method too.,4,Neutral,0.0
+151,f67839b2-22b5-4457-9860-ad28d0afb235,2020,Books,Try yeah term camera tend economic represent stock seven put majority officer environmental increase later.,4,Neutral,0.1
+152,c4d598f7-e14f-4093-8b6a-d0c7a2356dd4,1320,Home,Idea seek reason theory lawyer maintain old than suggest.,4,Neutral,0.1
+153,755cee2a-f8de-4777-bb1e-5ae817d821b8,1096,Clothing,Sure somebody huge why station manager follow exist natural candidate system small.,4,Positive,0.187
+154,0c648ca2-c323-4466-aebb-b90ee4e751de,7865,Home,Between six least buy tax kid a when dark read car practice.,5,Negative,-0.225
+155,e0688849-eec7-4a30-9fda-35b228b2bf21,4613,Sports,Behavior growth bar professor power appear personal rise sense investment.,3,Neutral,0.0
+156,00473139-185d-4528-b425-8e191758d47e,8140,Sports,Live car difficult quite act receive.,4,Negative,-0.182
+157,dc3f42e0-fcf7-4842-9edf-3bfad12e0eb5,6507,Sports,Really local director become south billion happen federal him spend themselves political quality attention none particular clearly goal defense security turn.,2,Neutral,0.067
+158,dc268108-7140-41a1-afc2-ccfc9db7284b,8657,Books,Beautiful beyond sell operation himself white fire cause everybody base network outside parent single.,5,Neutral,-0.004
+159,d8d994b8-d90f-44e9-86dd-f6cab0c30a59,1441,Sports,Day parent country hot position six soldier dream history drop point audience thousand activity guess first.,5,Positive,0.25
+160,91816091-d6c6-445c-9c5e-4e786307d4d1,1444,Electronics,Half raise several west side admit attack energy always art smile media pick may indeed reduce bar Mr pattern everyone.,4,Neutral,0.044
+161,ebc1bb52-82e4-4d4a-943a-c1c54f560ed5,3223,Sports,Window choice force only shake power poor financial.,1,Negative,-0.133
+162,d8b22277-f413-4b19-bade-8d5d6fff15cc,5262,Sports,Around beat its law participant finally score scientist budget remain reduce.,2,Neutral,0.0
+163,58c1aad6-f3f8-4ea4-bf14-eafa29f0ef7c,8449,Clothing,Military state else head seek them run brother tonight friend investment model enjoy window physical many.,4,Positive,0.2
+164,7fe670f3-0e31-41ec-9c31-146482c299f0,5558,Sports,Cold church significant thus purpose boy scientist able teach activity animal hair turn condition whether.,1,Neutral,0.092
+165,e9f87970-cd98-49e2-8d88-8beb090d9655,8705,Electronics,Different eat trouble floor step number budget pull apply development middle animal husband theory tend similar financial beat lead hard factor.,5,Neutral,-0.082
+166,9f6a6a65-bd54-4a04-8dcd-0009c8d57717,1853,Clothing,Less option management significant crime too set early according improve.,1,Positive,0.103
+167,a2cd1590-58af-493c-8aa2-b4c93ba5bd76,1659,Electronics,Week ability price support road billion.,2,Neutral,0.0
+168,6b790d01-3cf8-4d20-bbad-793f87a1ec02,1333,Home,Which win central evidence analysis discuss suddenly including time learn security oil.,2,Positive,0.267
+169,d1e91691-a320-4116-a22d-f6a48163b6ce,3068,Sports,Avoid nothing itself who door end fire song red save fish evening avoid dark sister once choice clearly letter.,1,Neutral,-0.017
+170,5bb8b9c8-8932-49f3-9ee8-9a4c681134e2,4571,Sports,Later leg system bed space fight relate owner Democrat task chance represent why how any federal.,3,Neutral,0.0
+171,07f4fee5-2c82-489f-bd9c-fbb0d1f16485,7043,Books,Take new nearly behind big soldier building article sit develop cup hundred rather visit base only true avoid.,5,Negative,-0.119
+172,e709fba6-329f-4417-9081-3d45ff45f8a2,2876,Books,Speak begin suggest speak business walk anything under item right many him interview.,1,Positive,0.393
+173,2fe922aa-e886-4011-b6f7-a26c5a9c0679,1420,Clothing,Evidence third alone people early far include nearly article evidence case current this moment piece soon.,4,Neutral,0.06
+174,61eb64e6-fd49-4e20-84ff-eab2cb7b0b3a,7498,Books,Look sit general not focus establish ago others ahead.,5,Neutral,0.05
+175,0effd5bd-47eb-440d-874e-48ffcf89569d,4978,Electronics,Morning short yourself wind beyond prevent entire staff true argue you detail suffer something great stuff suddenly compare or south recently trial.,3,Positive,0.192
+176,5a07d758-b357-43f9-b415-7cea07388ba4,2983,Home,Nor none could write think man finally make bed discussion despite money a truth cut candidate response try such food against only true similar suffer team.,1,Neutral,0.07
+177,b45c9a54-5fa3-4531-9291-6e60f5e72daf,6688,Home,Only from follow wish run join police maintain fish religious no threat party ground program.,3,Neutral,0.0
+178,4e8bf78a-60dd-47f1-ace3-d822d08012b8,2129,Home,Camera rock we we hot yes whole allow own TV whose determine not view cell seat draw.,3,Positive,0.35
+179,a2dd22d5-2afa-4b7b-91cb-f9e5fb7d3ba1,1207,Sports,Start prove role from activity decide really go skin result.,1,Positive,0.2
+180,bb8aa843-702f-41e5-a2cc-c6040c53644b,8102,Clothing,Why this manage her national big look tell prepare reach class available suffer far five weight avoid color heart rule.,4,Positive,0.167
+181,fa60ede1-e5eb-472d-b11c-0ac58c0b393a,3506,Sports,Full world throw relate issue president parent.,5,Positive,0.35
+182,19ec0829-0db5-4441-a837-f4186f27c1b9,5425,Home,Day couple recent reveal role enter example down anyone occur style child guess into far product outside current agent color.,5,Neutral,-0.011
+183,793bed1b-14f9-4394-ba20-74034ab427e3,8921,Sports,Final however major produce before name continue those hard knowledge.,5,Neutral,-0.076
+184,436e3c49-770e-49db-b092-d40143675d58,5397,Clothing,Student nor character recent benefit property space including series.,1,Neutral,0.0
+185,d73e7bb9-0f9c-417b-8db8-dadf3a3e46b0,5569,Sports,Stand industry movement term little think live bad total research maybe.,4,Negative,-0.188
+186,924cde09-ccea-4031-844e-250be684390c,7209,Clothing,Challenge we last we cold deep cover amount bad raise dark.,4,Negative,-0.29
+187,d5881c1c-25db-4946-a091-e5b4d2938e6e,6325,Books,Election treat trial attack hold however for everybody leader them skill performance mission information increase challenge onto serve vote understand.,2,Neutral,0.0
+188,c926a021-19da-4262-8790-3dc5900c0af7,6813,Clothing,Test they there enough pressure occur list common idea peace race I.,3,Negative,-0.15
+189,54dccba5-e103-4e1c-a3bb-22ae6552ac53,5526,Home,Any little environmental head full soldier financial.,5,Neutral,0.054
+190,b23909f4-dbb5-4645-bdda-c1b6d7c4caed,4130,Electronics,Win direction feel season similar fly rock.,4,Positive,0.533
+191,301c8db3-16db-40db-a543-148e9adfe981,9004,Home,Deep station scientist service test start middle city find medical career surface these ahead cover strategy student economic lead truth relate ever statement.,2,Neutral,0.05
+192,ec4e8cbb-a2aa-478c-a59e-0258814ff657,8800,Sports,Race drop major land whether listen necessary general study else store.,1,Neutral,0.038
+193,62f5f7c2-0706-4ec2-88fa-4e981723ecdb,2524,Clothing,Clear occur who tax positive question especially.,4,Positive,0.109
+194,dd58631b-0522-46b9-8366-663668d576b8,4986,Clothing,Listen car community song difference part wall require remember every.,5,Neutral,0.0
+195,59450186-da01-4d29-a060-b1ebe53e5f4c,7046,Sports,Edge level quality station however bill memory production successful hear positive participant fear blue as write political technology.,5,Positive,0.244
+196,f3c2944a-b60a-4dcc-a7f7-745142da8609,6632,Sports,Could military drive arm tax special identify floor cause agent market fast trade identify say on yes staff.,5,Positive,0.152
+197,38eccb4d-b69f-4eab-b9ff-2c2957d9cbb0,6419,Clothing,Point little wait grow feel color price next family likely scientist rise next tree water tonight pressure develop development the inside thought he one.,4,Neutral,-0.047
+198,787515b9-1e26-4d31-99e9-275876b90436,5438,Clothing,Term on want author threat matter test.,2,Neutral,0.0
+199,69c165ae-4c61-4ae8-87a3-7f1061b512ed,2976,Books,That character yeah garden would throughout would century.,1,Neutral,0.0
+200,c768b07f-2e2b-4c6c-b736-0c4fdcc5d975,9779,Books,Maintain piece computer play above event seven.,2,Neutral,0.0
+201,288f3435-c3b5-44db-9387-03c92b29bf36,8933,Clothing,Size sister can its investment investment local above move room wear throughout series most adult above safe difficult theory fine bill me fill.,5,Positive,0.127
+202,4c56fb8f-0bb4-42b3-92e7-6deb10b6a662,9595,Home,Lay minute model its rather card you majority seek close trade.,1,Neutral,0.0
+203,3a799efa-04e5-4bd5-a744-acd4cfdfc6f9,4180,Clothing,Road capital safe operation college hand practice also theory.,3,Positive,0.5
+204,9f85c2dd-88e4-4a48-8570-9e30417b6634,3939,Clothing,Order answer blue structure answer.,5,Neutral,0.0
+205,61584f88-71be-44c3-aab1-cdb61da466fe,3073,Clothing,Natural listen check receive piece feeling.,1,Neutral,0.1
+206,8532fc74-a998-4bdf-99d9-d0b5a962d996,5786,Books,Performance red industry together memory pay executive size marriage participant sing story win group important civil.,4,Positive,0.4
+207,352b6ec8-e90d-41cb-bf11-1a368c52d271,2680,Electronics,Former able public trade structure protect chance bed memory rich big eight discuss write fast less between company always fact.,3,Positive,0.13
+208,6d0e0597-500d-42a7-ad40-9244cd3566ef,8690,Sports,Believe serve animal system professional color group just perform there behavior.,3,Neutral,0.1
+209,1d24181c-2ed0-47d4-97bc-ad3ad0a17fe8,4020,Electronics,Hundred lead structure ready long instead though coach car risk word such billion.,4,Neutral,0.05
+210,cd613988-7b90-442f-973b-6977e9462820,2869,Electronics,Question consider here grow agreement range stuff wind candidate turn both in animal energy fire relate question should.,4,Neutral,0.0
+211,39571344-90a4-4421-b949-3906939f44eb,2213,Home,Mind read peace item risk loss professional political chance step throughout party activity various measure light many close.,1,Positive,0.2
+212,3dab1614-5215-4ed8-bddc-a413c05db774,3485,Books,Wife anyone development poor idea dog learn soon large task language budget market president bill include news a before page.,5,Neutral,-0.093
+213,e3de4ec0-4dfa-41be-a335-b2c89e7b1e95,5978,Electronics,None pressure lay future stay staff such forward should outside respond guy laugh.,1,Neutral,0.075
+214,38c46b38-a8ae-47b9-8262-cad018f1a1e4,7818,Home,Game stop who factor miss reduce animal clearly cell response.,5,Negative,-0.15
+215,41191aa7-1b61-4453-a8c2-094db8b818cf,4697,Home,Cultural building system democratic station course full serious another plan public but through leader operation mean white above save.,4,Neutral,-0.028
+216,d6bca712-6ecc-4931-af70-5d018da03d88,8253,Clothing,Lot meet TV concern official room campaign hold over third mean his woman trouble several event white wife laugh card include record.,4,Neutral,-0.035
+217,d7d3b9d9-4c85-4233-8325-bd9ebf98e734,6003,Home,Team Republican very plan cut person fact generation public wonder practice when mean reason follow break good lose number project individual security.,1,Positive,0.117
+218,e0a25901-4932-436e-88ad-dab1d7654a18,2625,Books,Space mission agent certainly prove customer seek claim expert economy style real far send allow sport bill test science ten.,2,Positive,0.121
+219,638e1388-8faf-4d4a-a5a9-9ebcbe0ec2da,5335,Electronics,Memory someone receive realize another high indicate small rate.,2,Neutral,-0.045
+220,0351b09d-0dc5-4b06-8d58-09b7f740d87c,3847,Home,Data than team kitchen difficult plant remember happy.,2,Positive,0.15
+221,9a7791a2-bd0b-4fa2-8bee-f83f96a06bf2,1043,Sports,Simply who family concern radio cost community message help investment news candidate.,5,Neutral,0.0
+222,0171f5a7-4148-4d11-9894-62e895801c3a,8699,Clothing,Letter visit always up others similar personal successful.,2,Positive,0.25
+223,929af586-ca37-4c36-bd94-bf104d187b75,5720,Clothing,Group six fish detail contain attention measure indeed Mr begin determine degree forward guess despite sell most you statement wonder across protect knowledge toward.,4,Positive,0.5
+224,3e6b74fd-9f02-4cbf-ab29-d9129d1b83df,2166,Books,Radio fly trouble war history music executive.,5,Positive,0.3
+225,c53f1db3-d275-4d43-8451-7303e94d4fbe,4241,Sports,Method meet main fast prepare fly bank benefit will.,5,Positive,0.389
+226,01e06ad8-8880-4d4d-89b8-b7eec5f833cf,4683,Books,Assume prove similar ten interest billion Mrs reflect wish simple position vote section child learn forward.,2,Neutral,0.0
+227,2d90e4ee-0de4-433e-92c0-620c1667c518,2169,Electronics,Newspaper offer direction else hold picture item admit pull.,3,Neutral,0.0
+228,b864a47b-a434-47fb-8182-978288eae7d4,5728,Sports,As second animal summer group me face rate paper example unit high.,4,Neutral,0.08
+229,795741bb-07e3-439a-a925-2745d2769c96,5982,Sports,Mouth carry hospital something nation whether century quality trial.,5,Neutral,0.0
+230,a5df6f85-bab5-43fb-9dfc-d1d5cb863dea,9847,Sports,Whatever action themselves center among of hour natural be decide scientist rise deep town surface central.,1,Neutral,0.02
+231,d5b211a9-9dec-4b83-b885-8f7e2f1a25a8,1653,Sports,Create consider son system surface usually yes leave near fact attack better rise maintain former campaign pretty.,3,Positive,0.12
+232,11defebf-9e98-461d-88fe-bf6d199c8d94,5102,Electronics,Fish late pattern figure once not hair.,2,Negative,-0.3
+233,2b2bf58c-6da5-4dad-b56a-abc050fb35b0,1339,Clothing,Finish size Republican political everybody growth quickly former lose knowledge.,1,Neutral,0.0
+234,8d3a5d76-7caa-481b-8e33-6644c65720ae,3870,Sports,Compare parent success teach cause Mrs enjoy though baby away affect.,4,Positive,0.35
+235,d0095507-07fc-484e-a1b2-462781d67019,5557,Books,Often shoulder defense already end thus music president chance hotel through operation tax card may bed hair action draw who word range.,4,Neutral,0.1
+236,723b80d4-23ef-4561-839e-7623c1d841d3,9056,Electronics,Condition we process whose save low grow despite maintain as hard amount.,3,Negative,-0.146
+237,ca9d2704-e860-4cb1-8494-205c34ef2552,7690,Clothing,Hold truth thing always possible billion why plant event score official now heavy.,1,Neutral,-0.1
+238,a741104b-9672-4e98-9d84-16e060e696ff,3634,Clothing,Might heavy trade might good test main lot page.,4,Positive,0.222
+239,709d338b-2393-4d45-a1cc-ff0d8078636d,5722,Sports,Discover method exactly change church own stage produce increase form box push look opportunity positive improve.,5,Positive,0.359
+240,92d00319-20bd-4422-8b0b-81de3e612d66,1601,Sports,Claim picture always occur argue election conference when out nor affect rest.,3,Neutral,0.0
+241,f27f3ad7-4890-4b6d-9240-ef02a9681fc1,5135,Clothing,Describe paper likely loss detail improve.,4,Neutral,0.0
+242,d209383b-9528-4c0a-8b6b-f5622488c84d,9431,Electronics,Perhaps member cold rate two others attention her car admit mission training range step.,5,Negative,-0.6
+243,79d29001-2d6b-4a4e-98a7-06099b02c535,8569,Sports,Outside there mother sell behavior process top much ability visit question.,2,Positive,0.233
+244,5ed10e7f-6bb1-42bc-85a4-b0cb6e76936a,9494,Clothing,Recently investment voice lot shoulder go source traditional student office international.,4,Neutral,0.0
+245,3b85f6e1-c40f-4405-ba25-ed81412817eb,8242,Electronics,Exist theory impact country remember smile official.,3,Positive,0.3
+246,6001f54d-01d7-4831-850f-1cdc1e2a03f1,9998,Books,Reach firm gun choice prepare effect talk interest hand every.,4,Negative,-0.2
+247,3425449c-c145-46ba-a5bf-8e04ae3c2ce6,8941,Electronics,Need newspaper condition next low write officer similar.,5,Neutral,0.0
+248,dae13586-2358-455c-bc5c-3cd865ebd4dc,4920,Books,Security land record class Democrat hundred full nearly recent.,5,Positive,0.175
+249,639c4c6c-2926-405d-8d53-551ab4f02f6f,1224,Home,Source statement likely outside because enjoy he participant.,1,Positive,0.133
+250,fc04ca7a-ee41-4f16-a263-307cb9787c4b,4681,Electronics,Pass minute represent our watch star policy keep cut prevent sound experience almost outside middle discuss.,1,Positive,0.133
+251,5c17ebb5-093b-4d72-ac8c-dcaf2b633b18,3522,Sports,Pretty wish beautiful every human prove if customer address region try near risk next on girl spring.,3,Positive,0.24
+252,31cc6738-f68a-49b7-9b3a-a1d139ee80ab,9337,Clothing,Upon offer end imagine blood authority family water sort what then spend offer reason whom none.,4,Neutral,0.0
+253,56f401e5-c1e9-44fa-be47-27fdc51c91f4,8736,Books,Race to television loss election him small detail red son include good movie red enjoy expert human.,5,Positive,0.142
+254,13769ff9-578c-4875-9231-f372bfb0942c,3369,Sports,Use live government thus especially water raise travel material current save their deal dark.,5,Neutral,-0.003
+255,5b249c2a-9e5c-4dcd-961a-080a3fec0a37,9327,Books,Single build bad what manage according tax.,3,Negative,-0.386
+256,7b777e71-d917-48f8-8ad1-c18cf53f091e,7798,Clothing,Per manage world to than make worker trouble exactly develop office approach son long must maybe hour rather company with recently.,5,Neutral,-0.0
+257,0227b8d5-b070-4a53-90ce-857f75c72fb6,5377,Electronics,Purpose here beyond gun technology cost enjoy.,3,Positive,0.4
+258,9cf3137e-f562-437b-b8aa-16ea44f7f01a,9022,Books,Hand material decision red head take evidence conference capital office direction between establish dog it.,5,Neutral,0.0
+259,cccf4130-2556-43d4-b231-32fa618192de,8935,Clothing,List act instead care throw piece move firm main economy.,5,Neutral,-0.017
+260,65fdaadb-0c36-4d4e-915d-9a63dbc6c928,9903,Sports,Real art sport live picture last free guess night use.,3,Positive,0.184
+261,696929b2-0513-4da8-9819-93cc41f9994a,4090,Books,Go quickly paper officer practice Mrs without expect foot member simple land.,4,Positive,0.167
+262,49599bed-9d19-41a5-a18d-de71141283fb,4826,Sports,Place certain cold space front piece occur support author.,3,Negative,-0.193
+263,50405c43-3a6c-4da6-97f7-d71f2978cc73,8749,Sports,President report painting house thought sit voice security minute late cold take by doctor.,2,Negative,-0.45
+264,b360dfaa-be6e-4d47-b0c0-804b406bf02d,9115,Electronics,Decision however believe view list approach side.,5,Neutral,0.0
+265,154ff37d-fefa-4198-83d6-cd548623bc74,6439,Electronics,Energy choice pressure those finally easy exist phone capital stuff.,1,Positive,0.433
+266,5b59f28e-a9de-4b26-88ff-eab0075072d6,9617,Sports,Ten level that various nature career way much.,2,Neutral,0.067
+267,a18c5492-74e0-479a-98fb-47279740b212,7717,Books,Itself policy move training loss dinner become film include choose action.,4,Neutral,0.1
+268,d913057d-c21f-44fc-90bc-bad585f80d9b,5342,Clothing,Gas light across two water local across involve fall discuss account health in.,4,Positive,0.2
+269,3ff93134-650e-48e4-afe6-33f18f807d8b,2315,Clothing,Resource position stock determine bad personal might son party really even possible mother especially.,5,Neutral,-0.1
+270,2eb23ca3-1186-4a93-9a7d-cc533020cf06,7226,Clothing,Face PM pay evening performance could affect anyone movement control bill especially resource.,4,Neutral,0.0
+271,17172654-3b99-4815-8219-a9c7ba23b07a,9864,Electronics,Address describe inside size marriage he recent all bag seek certainly entire hotel.,1,Neutral,0.0
+272,3133839e-2e7d-452b-b85b-8a078b0ea0b9,4846,Clothing,Stage stock business should eat side kitchen scene almost leave.,1,Neutral,0.0
+273,aa7f7e06-8569-4f97-980d-c855c55ffde8,8110,Electronics,List race fine follow pick among visit minute education police cup thought tell design both plan foot.,1,Positive,0.417
+274,95aeb18b-46ae-4e06-8b5d-2b592ad820ca,8269,Books,How during why ok real read choice side eat matter rather full wide service.,3,Positive,0.237
+275,a502dc4b-5b03-44d8-8f4d-6c400f5f9707,1474,Electronics,Red social call discussion word small series south just cover.,1,Neutral,-0.072
+276,b972393a-5bb0-4d76-a0b5-7717b072afc8,5806,Clothing,Economy always religious next my majority note myself food life.,4,Neutral,0.0
+277,ea1af7d2-9943-46bb-94d3-53a5de1f1619,3385,Books,Civil most last standard must law simply media safe third people hair per fly as whose standard couple raise she.,4,Positive,0.225
+278,5295ea96-487b-45d7-9cf0-23dd277529a2,3950,Books,Political book model at strong candidate them dark magazine better number.,1,Positive,0.196
+279,7d6ab7c2-a86d-4706-a37b-3648d617b9c0,7267,Home,Perhaps opportunity any determine responsibility actually TV pretty up story life police guess sea three state some around pay more same strong.,2,Positive,0.296
+280,f5e90352-3745-49f2-b1d1-88b913f39289,9153,Home,Best rise mother country moment eat personal condition see indeed black police.,2,Positive,0.278
+281,b3da5808-756e-467d-acab-8b695ba37cb5,8555,Clothing,Third coach Congress husband front citizen your kitchen good firm yard foot he share issue rise part.,3,Positive,0.167
+282,60042231-36c3-4e85-8bae-295e902a405c,1153,Sports,Unit effect which language however risk work other military year few feel develop talk against.,5,Negative,-0.142
+283,d284b528-b091-4fb7-b17f-3f92d26aa790,3588,Electronics,Try memory number occur behind leave choose enter threat economic eight feel now notice.,3,Neutral,-0.1
+284,b93c92d5-13c3-4b5d-bbf8-da9137a9f824,5901,Sports,Society common stay ready office traditional organization feel room office bad argue side girl stage indicate test thank dinner.,3,Negative,-0.2
+285,edbc36d8-9a30-4096-9977-66bea71c8948,8484,Clothing,Plant place approach modern floor north.,4,Positive,0.2
+286,388629ff-b2a0-4778-809d-644453ab3cce,8916,Electronics,Anything rule hotel knowledge organization measure develop face.,4,Neutral,0.0
+287,560f1e2d-21d7-4432-a5e4-240364f2502e,6881,Home,Live seat nature energy huge its recently seven.,3,Positive,0.179
+288,7ce4770e-32b7-4d80-8f2e-08d37b1dbca3,1359,Sports,Present cultural pattern save east author since food under become public interest give.,1,Neutral,0.033
+289,a7c8f0c5-9808-452c-9832-c8de521be8c2,1803,Home,Show college glass start sort perhaps key under do rate choose.,4,Neutral,0.0
+290,1cc464ed-15f7-4f61-9a4e-c04cba7e1b86,5689,Books,Drug per challenge strategy explain gas sound figure likely forward science.,3,Positive,0.2
+291,85f4c0a2-8be2-4516-b42c-5348363d75f1,4588,Books,Nature performance yeah reason property heavy town money eight art customer recent even let war.,3,Neutral,-0.1
+292,457498ca-a90e-419d-a37e-3f94110c8d92,3240,Electronics,Ten affect test power discuss herself with between firm term mother cost may leader unit again easy morning four.,1,Neutral,0.078
+293,04b40ac9-2831-4f0d-be90-63fb64b5d9a5,6061,Sports,Range green few you without every artist election.,5,Negative,-0.2
+294,d09a934b-fffc-4743-a3f1-6406631d9c8b,6977,Books,Want we difficult game hotel.,3,Negative,-0.45
+295,61d85365-bada-4c94-9679-bbe023238416,6352,Sports,Whether partner personal dinner drive check wife travel forget my deal catch.,2,Neutral,0.0
+296,33ca9a6b-ccd3-4f7c-af1d-cfb88a962a11,3165,Home,Finally relate model career yet wish certain usually true fish.,5,Positive,0.188
+297,b82d40de-f2d7-4d53-8870-2ae78eadda9a,9221,Clothing,Contain style certainly ahead five win which.,3,Positive,0.507
+298,ef0b743e-bee0-4762-b168-bdec4da838b7,8894,Clothing,Charge could capital ago worry pay paper partner others discuss ago bag sister care suffer light power contain.,3,Positive,0.4
+299,233408ba-794e-4838-bdcf-60fd633098ed,2886,Sports,Cover allow share address establish including score.,2,Neutral,0.0
+300,345e2eaf-c1fd-4581-b3ec-e6b1fcfd8547,4696,Sports,Computer western keep pay reach term thought into simply part station result hour.,5,Neutral,0.0
+301,9803a82e-926a-4bd0-be12-5f8ff06b6c12,6992,Electronics,Modern then skin minute later still amount yet million how same newspaper might piece any fact huge fight still leave institution party approach might central.,4,Positive,0.12
+302,172720fa-73a2-4c7b-a566-e884d473e687,1228,Clothing,Both single visit receive career including late condition opportunity Republican dark lawyer economic reality trade someone responsibility but box.,1,Neutral,-0.08
+303,15d6a658-5ce9-4bbc-a252-91f3730bc657,8451,Clothing,Religious risk window partner civil nearly analysis color friend the television class certain shoulder anything final role which eye Congress together whether.,3,Neutral,0.079
+304,40cbe188-c3f0-4ac3-9f60-1d1700e78824,7242,Clothing,Learn talk myself accept third.,2,Neutral,0.0
+305,a8d3110e-96bf-4e6e-b785-0b5c3ce5988c,8724,Electronics,Law kind over according think everything pick star debate continue area give certainly allow official owner former because board year.,5,Positive,0.271
+306,9c7060da-48cd-49c5-ac0e-1f71294d43ed,6374,Home,Occur no whom see growth along shoulder follow today star serve successful assume likely.,1,Positive,0.375
+307,46404b2a-dc02-48af-b1d2-94571f3cea1d,8606,Clothing,Money modern receive partner body role pick would low read value worry expert participant first moment yet government.,4,Positive,0.15
+308,7f13de67-9008-4dc9-9d42-1bae2134e15b,2911,Books,Role marriage space this discussion fact cover brother let someone.,1,Neutral,0.0
+309,ccb03fc5-3513-4238-991b-1a04bccaba38,5986,Sports,Yourself increase free night point action cut example so film media food.,1,Positive,0.25
+310,55520712-af92-4f22-9d24-67e20191d19d,4846,Home,How notice whether story create street two look listen along.,4,Neutral,0.0
+311,a090360d-27c7-455a-bb43-4a7222c0c475,8432,Clothing,Throughout Mr friend six including sea strong federal right firm movie decade rate son thousand government wide exactly all worker phone.,5,Positive,0.134
+312,9b0e70ad-922b-4a48-aa7c-f9e9d7a7e7b1,7866,Home,Cost bring site final tax report even beautiful theory he stop few modern company hear also dark begin media sometimes.,2,Positive,0.14
+313,30b1b67b-2771-4422-8003-8f26e7ab2ef7,7797,Electronics,Type run model simply century the state visit quality car right least require mission about.,5,Neutral,-0.005
+314,d91ea7e6-afe2-4940-8b45-8c23eeada90c,7686,Clothing,The four threat billion she seat against serve police decide.,3,Neutral,0.0
+315,46d28109-495c-4ac8-b14a-abdd33579b27,4559,Sports,Five kid brother chance event address performance method deal go five center region exist each author party full kitchen.,2,Positive,0.125
+316,e73e2bc5-7882-4064-876c-108d214c87b1,6942,Electronics,Black approach interview condition other or structure record pattern fine stage.,3,Neutral,0.042
+317,cf2e45ef-abbe-474a-8226-ab53b680873b,9920,Clothing,Bad type share nothing behavior sort recognize best financial popular.,4,Positive,0.225
+318,3b504fda-7875-41c7-b724-3aa3c438eae0,5520,Books,Century time election guy contain true form.,4,Positive,0.35
+319,740a5bed-5323-4aff-a1e5-38a1dc5cd673,2501,Books,Air little goal leave color should page camera bill stage someone for power society mouth husband including per nature wind himself.,5,Negative,-0.188
+320,b1ade82a-d05c-478d-b54f-184e57390b03,1349,Electronics,Issue woman note garden reason community prove school Republican student boy other foot best knowledge final image our rate others star force population article design catch oil.,3,Positive,0.292
+321,000c14a5-cf51-4203-a2d9-99bac146ed52,4990,Books,Produce laugh factor past language day theory feel some quickly truth view response trip wrong.,5,Neutral,-0.029
+322,fc862110-9c8a-4872-8214-1a68952d986c,4362,Electronics,Identify camera family hard nature apply reflect star grow technology tend dog reduce hour fish him high nation production little could his under style child.,5,Negative,-0.106
+323,2023fd4b-ab89-436b-9f6b-9b3fff594778,4394,Home,Activity possible century those price window career case.,2,Neutral,0.0
+324,74be4b20-dc32-48a0-aa75-80e2ce52309d,6383,Books,Us perhaps lawyer interest star his difficult interesting account marriage room Republican especially unit office almost also low happy oil which bag room money teacher seek evidence.,5,Positive,0.16
+325,e3d1803c-85fa-45ea-9407-2edb8456ce4f,1046,Clothing,Because line score whether back plant something fine apply gas sing light mention.,2,Positive,0.272
+326,54de19cd-bbdb-4536-92ef-63c1781f9d3f,9850,Clothing,Good within far cold reason our fight size employee picture official of prevent factor say agree machine camera baby six edge past.,2,Neutral,-0.013
+327,03a2cee9-41c7-49b3-9b9c-9b7c4674a0eb,2801,Electronics,Page travel school process have compare site.,1,Neutral,0.0
+328,cca3a4c4-2e49-42cf-bc23-9ebc3c775558,6869,Books,Television garden base certain value child many year side draw key point decision same generation politics sense break cold human feeling.,3,Neutral,-0.098
+329,ec264a0c-c09f-4c91-b2c0-a0cfbf03b8c2,1258,Books,Do raise hope enjoy most itself eye something high firm morning what best most government.,1,Positive,0.393
+330,eb04cd29-9c48-4830-ae89-84f4d82010d1,3076,Sports,Friend environment better pressure hospital significant see same open crime front real conference natural pull.,1,Positive,0.196
+331,69479974-030f-473e-9165-4cb3d4e99a65,2041,Sports,Moment rate goal rise edge alone people arm order thus.,3,Neutral,0.0
+332,a3596667-9971-4b2b-b353-3e8a3781d306,9408,Home,Remain build task candidate prevent tonight.,4,Neutral,0.0
+333,2f4cfefb-f798-48a2-8d9e-84ec90e9e294,9254,Books,Receive education level view police two everybody interview tough show food class.,1,Negative,-0.389
+334,0ff89e8a-c6f0-4a71-86fc-4ff212f178bd,9543,Clothing,Home you election spend concern attorney woman customer hotel population board music issue pass blood kid.,1,Neutral,0.0
+335,12aada4b-08ec-44c8-9a71-064d424d9430,1996,Sports,Number economy knowledge to chance policy usually professor entire.,4,Negative,-0.125
+336,642e3a16-e795-43fb-946f-cba3b336d143,2768,Sports,About remain side long identify road speech audience difficult his ready sister building movement yard four field area young positive half table future subject set.,4,Neutral,-0.045
+337,2d36db7e-33ff-4402-a5d5-bbf94a3abb3a,2204,Electronics,Always his course receive to piece grow be plan same cause cover rest or majority as.,5,Neutral,0.0
+338,7feb4cf3-4ec7-4371-a4b6-5cfa8a619e64,3430,Electronics,Who speech whom administration fund front return if deep president mission vote.,3,Neutral,0.0
+339,2621d32d-895c-467f-9fcf-338cdec56dc3,9984,Clothing,Do author save major affect trade peace drug possible add plan toward star best particularly structure ask stage.,5,Positive,0.307
+340,cc96bf43-9850-4072-bf44-cbca1d3ae131,9692,Clothing,Determine source international specific word question food wish office case student soldier share or friend building center indeed recent network.,5,Neutral,-0.025
+341,94fd0594-ecf9-4245-be5f-7e23704c19e2,8048,Electronics,Card social place heavy citizen they ball account unit religious order exist really.,1,Neutral,0.008
+342,b13e655f-79db-4407-85c6-ab7dcad04982,4522,Sports,Deal policy mission include visit particular also conference matter wear physical.,2,Neutral,0.083
+343,6b358d15-590c-4e67-8d1b-6d80c8575c8a,7779,Clothing,Newspaper court worry with peace television would medical less.,4,Neutral,-0.083
+344,46c3e497-3546-4cb1-a8c9-aa31a05ff5e6,7815,Electronics,Create someone rate why listen computer prove amount.,4,Neutral,0.0
+345,35a7ac9b-48f9-4d0d-9d3b-c1d3a5159982,6120,Clothing,Edge pattern three law bit appear Mr citizen ahead method audience dog know often.,2,Neutral,0.0
+346,ad463549-bf41-43cb-b2e1-5f176b47ed61,8770,Electronics,Discover body direction down include customer through available one.,1,Positive,0.122
+347,251adf0e-6f94-4a50-a3f7-13a70de92f1b,2527,Sports,Until lawyer hold carry rest place wish.,3,Neutral,0.0
+348,083759f8-2090-435e-95fc-f99133c417d5,3131,Home,Arrive carry surface learn commercial gas though page smile point.,5,Positive,0.15
+349,93ffc45f-2b80-444a-a7d3-f7709c8d1ade,6400,Electronics,Talk beat tax majority yet option student evidence role save east force often through option chance off above.,3,Neutral,0.0
+350,fdc419b2-0a41-4919-8b52-46f3faed5777,7929,Electronics,Safe mean international hour special recent better manager bar send really image design grow.,5,Positive,0.178
+351,173a0c96-ffbb-4bcc-a5cb-bf6f3d333164,6119,Clothing,Look fight reflect teach section.,5,Neutral,0.0
+352,76b90472-7470-424c-b9f6-b641063ff61e,9313,Books,Them if smile have less plant team.,4,Neutral,0.067
+353,b0d508a9-e4b8-4e89-a287-729e12194d94,4674,Electronics,Most fast send recently partner offer debate range per friend usually method travel.,5,Positive,0.112
+354,1c684db0-0d33-4496-a352-85395d2e7b90,7022,Electronics,Half people half compare next attack remember daughter wonder draw box long voice oil where decide seat different good environment quite.,3,Neutral,0.053
+355,5f70b951-1038-4676-8df1-172a46f2ff38,4705,Sports,Laugh may stop like mother stay tonight later happy pull really within third could this beautiful.,5,Positive,0.358
+356,49d2cac0-2dc6-4c90-a5df-c7af6403c4bc,1430,Home,Body every recent many themselves minute physical fall wide must car get.,3,Neutral,0.1
+357,057fdd20-a50a-4a29-bcda-835f71a0cff8,1474,Books,Country against soon strong mind from official pretty skin main program.,3,Positive,0.283
+358,71fc5136-8c68-420e-9787-463d87b8f95c,6567,Clothing,Fight car smile commercial employee machine wife show another.,2,Positive,0.15
+359,f4ca6e70-74b7-49ec-88cd-42c05a66219e,3347,Home,Peace claim movement consider compare remain toward some claim bring year off kid hard.,4,Negative,-0.292
+360,08e1624e-b506-424d-8fff-29f734850fcd,2140,Books,Within challenge large wish move building agent use shoulder way until choose wife national medical positive far time wide.,1,Neutral,0.088
+361,92dfcf99-fe7b-478d-bb0e-7c28c110bcfe,2503,Home,Son rock two full both look always question.,4,Positive,0.35
+362,66d137f6-0659-410a-8ede-79b61deb979d,7878,Sports,Subject land begin area political on develop very everyone against Mrs knowledge public beautiful memory create fish painting.,2,Positive,0.177
+363,aab133ba-e88f-4ab5-8e59-22e9f182cdf7,7062,Clothing,Huge respond into history activity general final knowledge night democratic thousand score indeed kind clearly road today rock increase structure.,3,Positive,0.23
+364,3531518a-24c5-4b47-9609-34d199125090,2391,Electronics,Listen test would at whether series because important trial.,2,Positive,0.4
+365,764d7e7c-8e49-40f9-acc5-c9de6a1d9731,1815,Electronics,Sense carry control high network amount step strong fight nice less agree able enjoy what.,4,Positive,0.321
+366,1fca0f16-78f8-455f-a2f5-a68bd590f435,7947,Sports,Individual man reach each budget everyone yes at seat ok not than physical live reason build.,4,Positive,0.159
+367,047dd583-9344-4b2f-bba3-16688334e524,7785,Clothing,Clear around floor there career clear evening information treatment green.,5,Neutral,-0.0
+368,a391ffdb-8794-4c7e-8aaa-7f994a34041e,2864,Clothing,Message short consumer behind sell myself their step rate.,1,Negative,-0.2
+369,b2adffa6-af79-4d4a-857e-55cb4d131338,5640,Home,Benefit oil statement actually million health machine future treat bill choice determine could today party.,5,Neutral,0.0
+370,d89806fd-8691-4efe-b3d6-b9f2d4d7b0ca,6053,Electronics,Republican reduce sort individual trouble bring capital admit give reality catch kind would mission.,4,Positive,0.133
+371,b5bbabce-2c15-44ad-9790-4515f859396d,1897,Electronics,Agreement sport develop task central dinner by candidate bad real.,3,Negative,-0.167
+372,04d07f29-13e6-45fd-9c99-d366c8b62c18,4460,Books,Serious amount blue soldier message arrive budget education at property senior site turn day top continue goal before suffer walk we girl civil may.,3,Neutral,0.056
+373,8141bb37-3de8-44ac-9cea-b67bba82854a,5742,Clothing,Attention standard shake more respond who commercial senior above rise under.,1,Positive,0.125
+374,b52f80c9-d9ee-4678-8112-f0ffeba46463,9149,Sports,Hand operation keep whatever Congress great here Democrat dinner both world buy.,2,Positive,0.8
+375,7eedcc65-22cb-4720-850c-ddfd1c3dae19,7229,Home,Relate news American foreign break exist outside find wish know network fact talk country attorney subject little quickly conference your.,2,Neutral,-0.024
+376,65787d0c-1aec-4b70-ac0e-73077ddcaaf6,9196,Home,Mission put budget house reason within scientist throughout collection hair current customer such identify do interesting material share she order.,3,Positive,0.167
+377,a4d21eae-cd0d-4d73-8a1c-3218c19d11c5,2180,Sports,Green project wear would memory challenge lawyer business majority discuss wall ahead scene store marriage ago condition painting force few perhaps.,1,Negative,-0.2
+378,c0697f1d-a93c-4413-9396-a289c29a988f,8147,Electronics,Should society dark product make energy gas teacher national weight all involve trip himself fire heavy least allow.,1,Negative,-0.217
+379,c7859c05-dc40-4942-a8cf-29368e81b2f0,6129,Home,Those clearly issue fine home shake notice make network much like no choose.,5,Positive,0.239
+380,7ea413e5-436d-477b-a431-cbbe0e44c9dc,7626,Sports,Wife pay good within fly agreement and student give score agree through game best generation group.,1,Positive,0.525
+381,3e85c8c4-a947-4663-8e73-752359ecc846,7636,Electronics,Doctor fine be read than boy college Mrs also price institution.,2,Positive,0.417
+382,444122a5-6bd1-4826-a6c2-cbb783c74cbe,8538,Clothing,Receive onto worry help hope.,4,Neutral,0.0
+383,7d05121c-ceee-4d65-9904-8ca79291e493,2734,Books,Real day market specific property coach federal wide cut player.,5,Neutral,0.033
+384,d7232ce3-1348-4fb3-8982-a300f95f17e6,7560,Home,Degree enter father of source person when response official option event.,4,Neutral,0.0
+385,79ab3018-87f3-49a4-8d1a-810d910171d2,6083,Clothing,Decide somebody prepare few sound item music customer I person law shake.,3,Neutral,0.1
+386,a0ba6142-04c3-4fed-a182-701b2e3bdb69,3754,Electronics,Television officer defense while score level view mouth pass shoulder its not phone mission hair challenge character rate feel itself.,1,Neutral,0.0
+387,e94053af-d488-4dff-9c35-25775193412d,9693,Home,Plant suffer environment expert civil rather door.,3,Neutral,0.0
+388,31216863-2663-4d11-9d12-2ccf3d0d3ffd,6752,Books,Early still less nice job positive.,1,Positive,0.19
+389,45d07382-28cb-47ca-b3b5-a667097913a0,3399,Clothing,Ahead smile everyone nearly popular amount reveal site.,2,Positive,0.45
+390,157c6813-e581-420f-9c0d-b2660e29ed9a,3504,Electronics,Own test too imagine guy price bed wall right cell.,4,Positive,0.443
+391,80104995-bc06-486b-922b-4fb21ca79972,8601,Home,Miss stock wear use edge this draw business southern forget once hope security door institution.,5,Neutral,0.0
+392,36cfd2d5-2cd6-48df-9b58-29c924ef65a7,8354,Home,Keep effect operation make hear we first interest radio white these view guy resource start again whom.,5,Positive,0.125
+393,bd4c938c-d76a-45a8-88e9-45489b16acb8,6295,Clothing,Real small dream need finally when.,4,Negative,-0.188
+394,af6c6f61-cfef-42a2-a735-4db25ce4124b,2118,Sports,Movement door kind account whether until truth feeling view series father.,3,Positive,0.6
+395,ea77d1d6-2904-46d6-a3e7-35abdc02bc29,5500,Home,Place these short image almost term statement wait likely.,3,Neutral,0.0
+396,552d4865-d756-4d35-ad2e-ebea69b7d533,9312,Electronics,Theory star station recognize media goal own spend scene law agree appear political.,4,Positive,0.3
+397,a41f0d38-ca80-4df8-b182-fcf2a151ed02,8404,Electronics,Able customer figure office book economic.,3,Positive,0.35
+398,d4a39a51-c481-4a69-b83b-f029b6ac2048,5703,Electronics,Suggest rate society floor long same end reach step son cup increase consider.,1,Neutral,-0.025
+399,d5ad86bc-f1db-4ad8-a098-0b94e05b1892,9307,Sports,Difference way type positive phone trade wind cup red collection husband investment employee become happy water bring responsibility itself.,5,Positive,0.342
+400,d3c724e8-7426-42d7-ada4-13c6eb8466e4,1672,Sports,Budget require course technology site explain management candidate task outside yet executive quality industry impact certainly face energy pay traditional hard range leader action.,5,Neutral,0.005
+401,f9723977-52c0-4f9b-9f16-eb702219b7f7,4084,Clothing,Rather require remain save eight believe arrive four dog traditional you vote whose our security animal effect people.,4,Neutral,0.0
+402,abd7d3f1-650a-49aa-ba3f-012e4d711f28,9214,Books,Car throughout American conference college manage fund life.,4,Neutral,0.0
+403,87c9daac-b5d3-4f2f-913b-b65c16f32b93,2695,Clothing,Center bring analysis campaign the strong security unit executive theory party seven enough fine throughout firm yes shake character table price.,1,Positive,0.11
+404,305d0ef7-0d9f-483d-b0a3-2883cc582872,9266,Books,Approach consumer like clear level break.,2,Neutral,0.1
+405,0a715350-7eb2-4900-ad5d-6510e52a33e6,8172,Sports,Ground remember magazine manage suffer term buy behavior test Congress collection meet evening through one on will moment.,5,Neutral,0.0
+406,eba0330c-6a9a-4f4b-ae39-c29a921f266f,3600,Clothing,East marriage behind forget expect wonder business health.,3,Negative,-0.4
+407,d6442365-1b27-45f6-b383-24f7eddcac0a,7347,Sports,Child ball store process law western order accept wide prevent week foot rule same whatever notice deep any poor follow.,3,Neutral,-0.1
+408,8c126e0e-121a-4952-be69-ad390e378b07,1857,Clothing,High human concern whole tend become system clear single expect sell pressure.,3,Neutral,0.078
+409,cd14eacb-7da8-4631-8c6d-8ddd1edfc59e,2548,Home,Save TV tough page grow benefit happen customer knowledge hold environmental outside bed institution happy control piece behavior message wind.,4,Positive,0.137
+410,afad328e-a5c9-4f20-b967-26aaad2b2c82,5655,Clothing,Us money positive base life bad soon feel worker range feel eat into notice necessary.,5,Negative,-0.318
+411,1b8dc821-836f-424b-8b8b-56f7ead44e11,3463,Clothing,Interesting behind produce nothing effect effort bank me box product conference.,5,Neutral,0.05
+412,0b961346-6498-4a39-97c8-f02c2ea5312a,3317,Clothing,Indicate region finish right serious last space game.,4,Negative,-0.112
+413,2febcc33-cf5c-4dd3-9f10-7434eb096202,3112,Home,Continue section page the blood move accept bring commercial local reality than whole own main peace.,1,Positive,0.193
+414,b0cf3e7f-5c58-48ba-9de2-fd3ff952f1e8,6072,Home,Source because career course staff receive could agree loss certain drop success teach Mrs beat.,3,Positive,0.257
+415,7957595f-25ee-4f0f-b6a3-0eb0c50c71f4,3093,Home,Against coach check reflect white likely teacher one cut notice.,4,Neutral,0.0
+416,55773297-0d09-4c73-a448-a3d5d5767137,9331,Clothing,Bill summer it indeed.,3,Neutral,0.0
+417,9888f0d9-9423-451e-bcb1-2a007ee667de,6060,Books,Yourself already hundred message right very toward test discussion art affect office network environmental.,3,Positive,0.243
+418,792cad76-e39e-47c2-aac9-8528a5f701fe,8967,Books,Manager voice get recently again explain court gas.,2,Neutral,0.0
+419,9670cd19-383e-49a4-81f4-6dfd3b6b1c0d,3538,Electronics,Two table resource life third rich hospital indicate wait present growth line.,1,Positive,0.125
+420,9f310fff-297a-4503-9833-33c3f88fa199,9317,Home,Executive see project can current paper beyond indeed year field decide another adult thing ground city.,5,Neutral,0.05
+421,80e3fe4f-e4fb-4a3b-9c05-ae03d3f471e7,1618,Clothing,Southern front box dinner no main year size show show news to.,5,Neutral,-0.042
+422,83f06e7d-dfaa-4505-b0ac-b9bada78f4c5,3147,Home,Prove relationship unit just lead success book black particular site water statement among black picture that treat church factor.,2,Neutral,0.033
+423,7f968d71-8182-40d2-8310-1e2e7107514f,3658,Books,Child hair standard but dark wide shoulder according strong list expert commercial entire.,5,Neutral,0.031
+424,5c532042-6a3e-4103-813d-8929b717548d,3712,Sports,Professor charge send instead direction soon including important learn system some.,4,Positive,0.4
+425,714cd65e-079e-4b0b-b198-f62e5c9d3ead,6968,Books,Show response military attorney full I sign its hotel also two.,5,Positive,0.125
+426,0ecc9ff5-9316-4f53-a70a-f82826a4cbef,5668,Sports,Woman sometimes then win information though red them return finish general still too particular chair.,5,Positive,0.254
+427,3483a23b-a4d5-46e1-b239-720167687c42,4918,Clothing,Person peace kind generation speech possible simple thing base Mr hope rest they minute must degree memory fine future player age three music else strategy.,4,Neutral,0.036
+428,fca91028-6c39-42ef-b9fc-829f4dcf2615,4178,Clothing,Book art health phone great answer prepare by fear say law work south writer not thus physical mouth other go expect size.,5,Positive,0.225
+429,23d52be0-ac24-4f30-92a0-c677b700b3c5,8218,Sports,Mind easy foreign old state guess better Republican stock bank artist thousand live land hard moment open million house enough material.,3,Neutral,0.094
+430,b063796a-70a9-4477-bf1b-654d6c65659d,7256,Home,Rule indicate clear media machine leader whose message more reason lay allow church next TV budget system book hard.,4,Neutral,0.077
+431,273ef6f4-85d4-4f0f-8a4f-ee3b4a229ba5,3655,Books,He yard field magazine social central operation any thus threat democratic standard major business give.,5,Neutral,0.024
+432,7b2e60e1-6ae6-4480-8b70-4f97ded44617,3267,Clothing,Finally laugh full help strong street car catch PM seven.,4,Positive,0.361
+433,ddc8d27b-2623-491a-b2f6-8fe1aacefa98,7081,Home,Become person perhaps hold too fund animal provide kitchen.,5,Neutral,0.0
+434,ddaf2233-16a9-4518-a55a-c92f47020de0,3042,Clothing,Religious occur someone religious night buy nice.,2,Positive,0.2
+435,8ab5a799-9e63-438c-b485-e9443142e0c7,5469,Sports,Serious whatever miss seek me affect probably mother while ever day stop stuff often be move fly open man value future.,2,Positive,0.117
+436,dc11eb13-0628-4878-aa39-46072e35c5c8,8167,Electronics,Fish either boy between collection century eight bed fill imagine college pass foot.,4,Neutral,0.0
+437,4c4b52aa-0ef9-4903-b69a-deac06f4b0ee,6727,Electronics,Better central throw election walk tonight appear dream others door meet mean we especially five.,1,Neutral,0.047
+438,7bf2aa06-10c1-4e9c-a836-29ce8d9957fa,7495,Home,Imagine do though especially white push east never.,2,Neutral,0.0
+439,91788bdd-4dfb-4b6e-a025-7194c903cc1d,7326,Electronics,Land suffer matter situation central music collection early weight which new among spend which.,2,Neutral,0.079
+440,f8da5a79-a72e-4d5f-8a0c-408d9ee827fa,1461,Clothing,A value lot our style herself goal.,3,Neutral,0.0
+441,d7371450-95cc-4da2-b677-0e04a1d8507b,3392,Books,Example claim move attorney bed recognize store rise your there.,3,Neutral,0.0
+442,f5194ab9-813b-464b-9c46-24d335fa46fe,8740,Books,This war play woman remain event production focus decision where foreign trial card two participant above act community new recent.,4,Neutral,0.003
+443,89c2fba5-648d-44c0-8330-ec147d2d93e8,8349,Home,Skin power back all story.,1,Neutral,0.0
+444,1f982a0d-ac18-4ef9-b1f7-1addabeed5b2,1311,Clothing,Will heavy over hit stuff speech worker by have cover act.,2,Negative,-0.2
+445,47f86de4-c227-40f2-8510-6943be3eb6f7,9991,Home,Course staff personal space determine woman whose already manage region paper according worker point book everyone.,4,Neutral,0.0
+446,8d41cb4c-2ba4-4308-be77-86aa80155756,2821,Clothing,Process not radio north assume campaign assume employee now.,3,Neutral,0.0
+447,ba991da0-85e8-4165-a189-6b253a5bece9,2996,Electronics,Court question yeah realize mouth education nice law visit political.,4,Positive,0.3
+448,da968e7d-0d46-4159-a668-5e80f16d4fe8,8489,Electronics,Item yet ever quite level guess service this different.,4,Neutral,0.0
+449,884c0a55-6b89-4000-ab1b-b47f47269e7f,9782,Electronics,First hot free they space wrong difficult ready when true culture forget as personal agreement it agency something various subject east.,5,Neutral,0.028
+450,573ecc3a-f574-475b-bd05-1bf4793c4fbf,4963,Books,Start mind door authority outside just believe.,4,Neutral,0.0
+451,15e59a0f-1ff4-4f0a-9435-0cb1724af3fb,1025,Home,True help three really site artist sort area.,2,Positive,0.275
+452,10d7a164-6e8d-4018-a04d-ac849c595e03,7825,Books,Quality nice far high benefit sell do outside process action himself somebody they.,1,Positive,0.192
+453,a6a2c945-56f1-4afb-99ed-59a59e85e4d4,9576,Clothing,Law foreign court bill organization.,5,Negative,-0.125
+454,d73d52ba-ca17-41d0-97c7-68d6114a9827,9914,Home,Toward call meeting green loss per control case analysis camera once message prepare group on must.,5,Negative,-0.2
+455,4f05495e-7832-459c-a5bc-99ae2547a8dc,1333,Sports,Garden hard account only question arm medical strong teach instead crime customer training size game property reason word outside former.,1,Neutral,-0.037
+456,55edd864-f68b-4ba0-90eb-ba129412ba0f,7338,Clothing,Federal forget bit then treat many turn police really level defense lose shoulder spring southern heavy.,1,Positive,0.125
+457,fd68a5d7-d37a-430a-af2a-a5e8667ae277,6850,Electronics,Guy available air boy fact create one.,2,Positive,0.4
+458,f9adde7d-0b3d-48ad-9c23-0306c3f9f409,2698,Home,Current exist despite energy company suggest early cultural compare energy big.,3,Neutral,0.05
+459,610114f4-2322-4464-ad6d-84efd4d9a0ae,3185,Electronics,Full decision lay hard head commercial money sometimes perhaps.,5,Neutral,0.019
+460,10bc94d3-b600-4df4-a0de-06766f082598,6546,Books,Certain under some court her hear outside with each animal pattern country movement smile foreign.,4,Neutral,0.097
+461,47b2e24d-cbad-4916-a124-3bea0da26154,8840,Books,Surface why though decide bank likely professional ask meet seem population meeting material less focus.,2,Neutral,-0.022
+462,7bb95b07-b1cb-42d0-8685-92d25fb68406,2033,Sports,Listen ok point so power debate thus later doctor.,3,Positive,0.25
+463,e3826da1-6cce-4c23-8e55-f3fe37f5c238,4302,Electronics,Number very hear nearly care base know goal once let perform international level important source first him conference doctor population grow.,2,Neutral,0.025
+464,8073aa66-d7b4-4b17-8b65-85171519613c,1686,Clothing,National back everybody direction budget growth national free push economic seat shoulder suddenly course page.,5,Positive,0.15
+465,c09c3207-dae1-4a7f-bf97-79f7234b20fd,7524,Home,Treatment across federal state situation identify if oil pretty line mention seven chance however dinner see listen middle skill.,3,Positive,0.125
+466,d07c5e53-b8f6-403b-b7ff-3c31c1f37837,1599,Books,Future beat suffer investment walk individual just table air catch them figure scene matter.,3,Neutral,0.0
+467,56fe972b-5acb-487d-9594-9c84a8aa454e,1783,Clothing,Industry rate idea single Mrs for age size two child.,1,Neutral,-0.071
+468,9174f53b-548b-4c63-be87-a6bcf3e00dc5,7029,Sports,Sometimes trial off hospital high we as hit little forget while police fight commercial push concern step owner agree.,4,Neutral,-0.009
+469,f686cfa7-e94d-4d1e-91ca-2a0b32f194d8,7334,Clothing,Exist do process attorney arm million commercial teacher improve church.,4,Neutral,0.0
+470,6b1d20b9-8954-4c3d-a10f-2a8a1c59b736,9151,Clothing,Sea home tough deal that finally stand professor city offer financial data respond learn cut yard knowledge station painting east forget notice make leg.,5,Negative,-0.13
+471,49b49625-1752-415c-bcbf-15830a0175e5,5369,Electronics,Get successful society hospital statement sure indeed conference pay it his probably recognize believe recognize analysis those citizen think Mrs project at.,4,Positive,0.625
+472,379e03dd-e6f8-4ac3-b8ef-d250b9fe60c6,2293,Sports,In seven building hard sense mean single improve close debate and ago police put left gas human create also economy.,2,Negative,-0.135
+473,53bd8128-22f0-4403-aac9-7d37b5878d33,9937,Clothing,Machine attention nature drug wear cell star success color adult beyond family movement hospital back.,1,Positive,0.133
+474,45f3dc5a-ad68-4b45-82de-b2e6c37a927b,2311,Clothing,Key concern research throughout mother kind answer play mission production process bill real know.,3,Positive,0.267
+475,c5bca449-0c75-4a17-8131-c6019923fc7a,6021,Sports,Short up hear draw before instead writer front court protect determine think someone store collection cold indeed blue.,4,Negative,-0.2
+476,a0751372-8fe2-474f-929b-20e053bf8b10,3730,Sports,Person various house into discussion black follow address pressure activity.,4,Neutral,-0.083
+477,10e67176-3858-4966-b572-56f63677f5b4,1693,Clothing,Practice hard attack despite feeling out work big movie wrong sure commercial where outside wonder recent.,4,Neutral,-0.042
+478,c57ae3ff-f8ed-48ae-acaf-8800ad8ae364,5498,Electronics,Forward play this fish surface lot.,4,Neutral,0.0
+479,e97f995d-9bc8-46f6-8484-a1b355c974a4,6952,Home,Large memory score me relate actually again serve buy door investment during bag case material dark heart politics draw rise write kitchen theory care fish skin.,2,Neutral,0.021
+480,fa41dd2e-cab2-4438-8557-ec6c0a23b722,1510,Books,Possible eye agency suggest former drug much trade professor eat reach rest part high focus kind accept thank attorney.,4,Positive,0.192
+481,fdf48930-a265-4f65-8d56-e00031456a6c,1570,Books,Voice by community nature somebody daughter medical.,2,Neutral,0.0
+482,4fbc0984-7792-4d9e-b998-e2d36d1e0d7d,7001,Clothing,Return each computer eat experience large player even sit bag win.,5,Positive,0.507
+483,7880adc6-2af2-4718-a0b2-17f965f35984,1530,Home,Institution participant item choose west lot seven into bar trade feel.,4,Neutral,0.0
+484,ba059e68-8d87-47be-a71d-d0f18985c98d,7077,Clothing,Either less law heart paper author carry light choice couple actually may.,1,Neutral,0.078
+485,6790eee0-7dcf-4924-9fcf-5c22b9b03c1a,3255,Home,Wait wife health majority political open impact although TV his not create job effort.,4,Neutral,0.0
+486,593c73f2-b8e5-4141-8067-6073e9c000f0,6150,Clothing,Remember play happy around history interest east local TV guess religious agreement program.,1,Positive,0.267
+487,7499bb6b-9afd-4464-82e6-918c25dbbe8d,1424,Books,Effect own weight success activity side popular true huge only too.,5,Positive,0.375
+488,e041f0a3-3056-487f-a8f2-6d6384bed7ed,7340,Home,Coach interview reality may mouth though only safe sell under.,3,Positive,0.25
+489,a2dcb574-1bf9-42a5-96c0-68e8de922cf1,5264,Sports,Since general central see us huge final would staff ability attorney recent modern pressure.,5,Positive,0.108
+490,2d28a2a8-2bae-4fc7-ae52-b671bba8a7e5,5678,Sports,Control care main me book note defense cut seek speak court.,1,Positive,0.167
+491,68a69e71-df22-4246-a6fb-61d3fba26c21,3223,Electronics,Phone person than coach fall help everybody garden one long pull beyond article seem account old would.,2,Neutral,0.025
+492,cab285dc-85b7-4774-b608-937418caa0a9,8292,Electronics,Heart mind while entire magazine series page from radio gas firm dream.,3,Neutral,-0.1
+493,60e12973-6602-47ed-aa42-92035c784ca4,6692,Electronics,Arm green form beyond lead recognize rise thousand catch own than evidence recognize spring happy peace probably little including could worry whatever.,5,Positive,0.253
+494,a23f3abf-0441-422c-927a-9f7bd007cd41,5757,Clothing,Them wide save question do machine school soldier give voice.,2,Neutral,-0.1
+495,fca39bae-79e3-402e-ae4b-d350f104ad27,6922,Home,Safe family crime century mind occur task.,1,Positive,0.5
+496,7f780428-20bb-459a-8820-7d4e812fdd98,4292,Books,Feeling pull nature themselves collection land break.,4,Neutral,0.0
+497,3e4c943a-3dab-4a61-8a69-3650a9a2e9cd,1430,Clothing,Color want record black year ahead upon force himself exactly rest program week.,5,Neutral,0.042
+498,22c0eee9-aa5c-48cd-9f83-5b8dabac8660,7044,Sports,Plant man somebody four difference office under ask gas travel sea rise president size whom join do else fact born future or could walk of.,5,Neutral,0.0
+499,f43dd740-5039-4a8c-9a73-dae0209e6e48,3126,Home,Officer ability artist movie suggest woman floor half quickly.,1,Neutral,0.083
+500,a9eb0bf9-850e-4d30-a055-adeccbebb43f,6067,Sports,Opportunity blood across system firm staff father despite quite challenge exist section support still alone floor maybe read event summer off piece democratic factor whom arrive.,4,Negative,-0.2
